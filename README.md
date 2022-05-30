@@ -1,6 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
+I'm Mohamad Chaaban This is my first ruby on rails project,
+
+steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
